@@ -8,6 +8,5 @@ galaxy_info:
     - debian
     - buster
     - zfs
-dependencies:
-  - { name: 'ansible_buster_base', src: 'git+https://13pgeiser@github.com/13pgeiser/ansible_buster_base.git' }
+dependencies: []
 
